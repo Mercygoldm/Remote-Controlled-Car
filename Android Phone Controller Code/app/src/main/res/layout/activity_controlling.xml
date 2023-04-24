@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controlling"
+    android:background="@drawable/background_5">
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:text="Forward"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="150dp"
+        android:id="@+id/up"
+        android:backgroundTint="@color/pink_3"/>
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:text="Back"
+        android:layout_marginTop="530dp"
+        android:layout_marginLeft="150dp"
+        android:id="@+id/down"
+        android:backgroundTint="@color/pink_3"/>
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:text="Left"
+        android:layout_marginTop="420dp"
+        android:layout_marginLeft="30dp"
+        android:id="@+id/left"
+        android:backgroundTint="@color/pink_3"/>
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:text="Right"
+        android:layout_marginTop="420dp"
+        android:layout_marginLeft="270dp"
+        android:id="@+id/right"
+        android:backgroundTint="@color/pink_3"/>
+
+    <Button
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:text="Stop"
+        android:layout_marginTop="420dp"
+        android:layout_marginLeft="150dp"
+        android:id="@+id/stop"
+        android:backgroundTint="@color/pink_3"/>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="Speed Up"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="260dp"
+        android:id="@+id/volumeUp"
+        android:backgroundTint="@color/pink_3"/>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="Speed Down"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="260dp"
+        android:id="@+id/volumeDown"
+        android:backgroundTint="@color/pink_3"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Help"
+        android:backgroundTint="@color/pink_3"
+        android:id="@+id/helpScreen"
+        android:layout_marginTop="660dp"
+        android:layout_marginLeft="300dp"/>
+
+
+
+</RelativeLayout>
