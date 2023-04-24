@@ -3,8 +3,8 @@
 #### Authors
 - Mercygold Msaki
 - Ruth Desta
-- Nasim Akbari
-- Aneet 
+- Nasim Nakbari
+- Aneet Kaur
 
 ### Project Image
 <p align="center">
