@@ -8,7 +8,7 @@
 
 ### Project Image
 <p align="center">
-<img src = "https://github.com/Mercygoldm/Remote-Controlled-Car-/blob/main/Media/Images/Remote%20Controlled%20Car.jpg" width="400" height = "300"/>
+<img src = "https://github.com/Mercygoldm/Remote-Controlled-Car/blob/main/Media/Images/Remote%20Controlled%20Car.jpg" width="400" height = "300"/>
 </p>
 
 ### Hardware & Software Used 
@@ -29,6 +29,6 @@
  
  In our project proposal, we had ideas for implementing a video feed that would transmit video from our car to our app, but unfortunately due to lack of time were not able to implement that. We initially had trouble with the original chassis we were using and had to switch to the tank we demoed with a week before the demo because of technical difficulties. We are also not able to speed up when our car turns because we were unable to increase the duty cycle of our turns from a 50% to a 30% split due to issues with finding a powerful enough power source for our car. We had also previously encountered issues with speeding up our Bluetooth data transmission but that was very quickly fixed with (surprisingly!) adding a “\n” to the message we were transmitting. 
 
-[A Video of the Moving Car](https://github.com/Mercygoldm/Remote-Controlled-Car-/blob/main/Media/Videos/Moving%20Car.mp4)
+[A Video of the Moving Car](https://github.com/Mercygoldm/Remote-Controlled-Car/blob/main/Media/Videos/Moving%20Car.mp4)
 
-[A Screen Record of the Android Phone Controlling the Car](https://github.com/Mercygoldm/Remote-Controlled-Car-/blob/main/Media/Videos/Android%20Phone%20Screen%20Recording.mp4)
+[A Screen Record of the Android Phone Controlling the Car](https://github.com/Mercygoldm/Remote-Controlled-Car/blob/main/Media/Videos/Android%20Phone%20Screen%20Recording.mp4)
